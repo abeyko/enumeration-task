@@ -3,4 +3,4 @@ Displays random number of white boxes, participant must report an approximation 
 
 Can be used for cognitive psychology experiments.
 
-Created February 26, 2013.
+Created February 26, 2013 by Angeliki E. Beyko.
